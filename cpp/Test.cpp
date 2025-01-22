@@ -1,10 +1,11 @@
-    /*
-    ITESS_TICS
-    ICPC
-    compilacion java y ejecución
-    21/02/2025
-    leonardo-zaid@outlook.es
-    */
+/*
+*    ITESS_TICS
+*    ICPC
+*    compilacion c++ y ejecución
+*    21/02/2025
+*    leonardo-zaid@outlook.es
+*/
+
     //c++ Test.cpp -o Test.exe
     //Test.exe
 
