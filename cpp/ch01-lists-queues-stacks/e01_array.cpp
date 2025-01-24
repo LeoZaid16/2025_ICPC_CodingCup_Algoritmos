@@ -3,10 +3,10 @@
 *   ICPC    
 *   leonardo-zaid@outlook.es
 *   22/02/2025
-*
-*   c++ e01_array.cpp  -o e01_array.exe
-*   cmd: e01_array.exe
-*   ps: .\e01_array.exe
+*   Arrays in c++
+*   win:    c++ e01_array.cpp -o e01_array.exe
+*   cmd:    e01_array.exe
+*   ps:     .\e01_array.exe
 */
 
     // librerias
